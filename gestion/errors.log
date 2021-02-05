@@ -1,0 +1,30 @@
+[18-Nov-2020 00:39:18 UTC] PHP Parse error:  syntax error, unexpected 'w' (T_STRING), expecting ',' or ';' in /home/sppfla5/havannagestion.com.ar/Views/control/ver_usuario.php on line 40
+[18-Nov-2020 15:26:33 UTC] PHP Warning:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' (this will throw an Error in a future version of PHP) in /home/sppfla5/havannagestion.com.ar/Config/enrutador.php on line 17
+[18-Nov-2020 15:34:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 17:43:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 17:43:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 18:07:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 18:07:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 18:07:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 20:11:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 20:11:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 20:48:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 20:50:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 20:50:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 20:50:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 20:50:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 23:07:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'Views/error/error401.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sppfla5/havannagestion.com.ar/Config/request.php on line 33
+[18-Nov-2020 23:17:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function controlController::editar_usuario(), 0 passed and exactly 1 expected in /home/sppfla5/havannagestion.com.ar/Controllers/controlController.php:167
+Stack trace:
+#0 [internal function]: controlController->editar_usuario()
+#1 /home/sppfla5/havannagestion.com.ar/Config/enrutador.php(36): call_user_func_array(Array, Array)
+#2 /home/sppfla5/havannagestion.com.ar/index.php(16): Config\Enrutador::run(Object(Config\Request))
+#3 {main}
+  thrown in /home/sppfla5/havannagestion.com.ar/Controllers/controlController.php on line 167
+[18-Nov-2020 20:23:30 America/Argentina/Tucuman] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function controlController::editar_usuario(), 0 passed and exactly 1 expected in /home/sppfla5/havannagestion.com.ar/Controllers/controlController.php:167
+Stack trace:
+#0 [internal function]: controlController->editar_usuario()
+#1 /home/sppfla5/havannagestion.com.ar/Config/enrutador.php(36): call_user_func_array(Array, Array)
+#2 /home/sppfla5/havannagestion.com.ar/index.php(16): Config\Enrutador::run(Object(Config\Request))
+#3 {main}
+  thrown in /home/sppfla5/havannagestion.com.ar/Controllers/controlController.php on line 167

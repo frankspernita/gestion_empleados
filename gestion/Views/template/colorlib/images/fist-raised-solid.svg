@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="fist-raised"
+   class="svg-inline--fa fa-fist-raised fa-w-12"
+   role="img"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="fist-raised-solid.svg"
+   width="512"
+   height="512"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/usuario7/Descargas/fist-raised-solid1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="743"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="271.76528"
+     inkscape:cy="248.15359"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 192.02,160 V 16 c 0,-8.84 7.16,-16 16,-16 h 32 c 8.84,0 16,7.16 16,16 V 162.93 C 251,161.15 245.68,160 240.05,160 Z M 64.020001,255.99 c 0.01,-35.34 28.66,-63.99 63.989999,-63.99 h 112.14 c 8.78,0 15.9,7.07 15.9,15.85 v 0.56 c 0,26.27 -21.3,47.59 -47.57,47.59 h -35.26 c -9.68,0 -13.2,3.58 -13.2,8 v 16.2 c 0,4.29 3.59,7.78 7.88,8 44.52,2.28 64.16,24.71 96.05,72.55 l 6.31,9.47 a 7.994,7.994 0 0 0 11.09,2.22 l 13.31,-8.88 a 7.994,7.994 0 0 0 2.22,-11.09 L 290.57,343 c -15.73,-23.6 -30.2,-43.26 -47.31,-58.08 17.27,-5.51 31.4,-18.12 38.87,-34.45 6.59,3.41 13.96,5.52 21.87,5.52 h 32 c 12.34,0 23.49,-4.81 32,-12.48 8.52,7.68 19.67,12.49 32,12.49 h 32 c 5.64,0 10.97,-1.15 16,-2.95 v 77.93 c 0,33.95 -13.48,66.5 -37.49,90.51 L 384.01,448 v 64 H 128.03 V 448.04 L 92.120001,412.12 a 96.035,96.035 0 0 1 -28.12,-67.91 z m 32.01,-90.09 V 48 c 0,-8.84 7.159999,-16 15.999999,-16 h 32 c 8.84,0 16,7.16 16,16 v 112 h -32 c -11.28,0 -21.94,2.31 -31.999999,5.9 z M 432,224 h -32 c -8.84,0 -16,-7.16 -16,-16 V 80 c 0,-8.84 7.16,-16 16,-16 h 32 c 8.84,0 16,7.16 16,16 v 128 c 0,8.84 -7.16,16 -16,16 z m -95.99,0 h -32 c -8.84,0 -16,-7.16 -16,-16 V 48 c 0,-8.84 7.16,-16 16,-16 h 32 c 8.84,0 16,7.16 16,16 v 160 c 0,8.84 -7.16,16 -16,16 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:white;stroke:none;stroke-opacity:1" />
+</svg>
